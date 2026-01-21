@@ -1,7 +1,7 @@
 # HTML — Complete Beginner to Professional Guide
 
 <p align="center">
-  <img src="./thumbnail.png" alt="HTML YouTube Thumbnail" width="100%">
+  <img src="./Thumbnail.png" alt="HTML YouTube Thumbnail" width="100%">
 </p>
 
 A complete, structured course on **HTML (HyperText Markup Language)** designed for beginners who want to build **real, semantic, accessible, and SEO-friendly websites**.
